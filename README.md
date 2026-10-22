@@ -2,7 +2,7 @@
 fertilizer allows for the ability to make custom forest biomes on revived cozy rpg know as a township tale (att) and also allows the meta quest version of att to have the forest which was planned by the devs before they moved onto the second project know as p2 (reave)         
 
 
-big credit to theravenseb for the banger name
+big credit to @theravenseb for the banger name
                 
 
                 [how it works]
